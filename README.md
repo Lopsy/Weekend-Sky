@@ -1,4 +1,4 @@
-# Weekend-Sky
+# Weekend Sky
 A dodge-em-up game I made to learn Python.
 
 Play by running "Weekend Sky.py" in the main directory. Use the arrow keys and space. You will need pygame.
